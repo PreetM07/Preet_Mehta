@@ -400,7 +400,7 @@ section {
   margin-bottom: 30px;
 }
 
-.about .a_resume {
+.about .conatiner .a_resume {
   background: #0563bb;
   border: 0;
   padding: 10px 35px;
@@ -409,7 +409,7 @@ section {
   border-radius: 50px;
 }
 
-.about .a_resume:hover {
+.about .container .a_resume:hover {
   background: #0678e3;
 }
 
