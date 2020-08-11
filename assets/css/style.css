@@ -397,7 +397,20 @@ section {
 }
 
 .about .content p:last-child {
-  margin-bottom: 0;
+  margin-bottom: 30px;
+}
+
+.about .a_resume {
+  background: #0563bb;
+  border: 0;
+  padding: 10px 35px;
+  color: #fff;
+  transition: 0.4s;
+  border-radius: 50px;
+}
+
+.about .a_resume:hover {
+  background: #0678e3;
 }
 
 /*--------------------------------------------------------------
